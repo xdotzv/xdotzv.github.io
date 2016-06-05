@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 返回值优化 Return Value Optimization
+title: C++ 返回值优化
 ---
 
 先看一段C++代码。
